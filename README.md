@@ -38,6 +38,7 @@ well known Brands, published on Github or other Repository of Open Source (Open 
 
 <h4>2)  Solutions submitted be developers to opencode.md and passed certification procedure,</h4>
 it is envisaged that this resource will bring together all open software solutions that:
+
 - developed requirements for proven and approved solutions;
 - published their solution on Github or other Open Source (Open Code) Solutions;
 - submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it; 
