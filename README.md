@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>The Open Content project "Open Source Software Registry for Moldova"</h2>
+<h2>The Open Content project "Open Source Solutions Registry for Moldova"</h2>
 Welcome to the Open Content page - OpenCode.md.
 
 Open Code is "Open Source Digital Public Goods". Such an application can be modified (modified, supplemented) to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
@@ -32,10 +32,11 @@ At OpenCode.md, we would present, show and promote the technology can enable cit
 If you are curious to know about how the Opencode.md functions, visit our website.
 
 <h3>We support 2 lists of Open Source Solutions:</h3>
-1) International Solutions from 
+<h4>1) International Solutions </h4>
+from 
 well known Brands, published on Github or other Repository of Open Source (Open Code) Solutions, and Trusted developers that have extended community, provided regular updates of its Solutions during the last 1,5 years.
 
-2)  Solutions submitted be developers to opencode.md and passed certification procedure,
+<h4>2)  Solutions submitted be developers to opencode.md and passed certification procedure,</h4>
 it is envisaged that this resource will bring together all open software solutions that:
 - developed requirements for proven and approved solutions;
 - published their solution on Github or other Open Source (Open Code) Solutions;
