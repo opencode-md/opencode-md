@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>The Open Coder project dedicated to Open Source Software Registry for Moldova </h2>
-Welcome to the page OpenCode.md or Open Code for Moldova.
+<h2>The Open Content project "Open Source Software Registry for Moldova </h2>
+Welcome to the Open Content page - OpenCode.md.
 
 Open Code is "Open Source Digital Public Goods". Such an application can be modified (modified, supplemented) to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
 
