@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 Welcome to the page OpenCode.md or Open Code for Moldova.
 
-Open Code is ""Open Source Digital Public Goods"". Such an application can be modified (modified, supplemented) to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
+Open Code is "Open Source Digital Public Goods". Such an application can be modified (modified, supplemented) to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
 
 The aim of the current initiative is to innovate through Open Code, Open Content, Open Standards and Open Data for transparency and civic tech.
 At OpenCode.md, we would present, show and promote the technology can enable citizens to more meaningfully engage in the public sphere and have a positive impact on community of Republic of Moldova and our neighboring countries
 
 We maintain a Registry of Open Сode (Open Source) Solutions that comply the following basic principles:
-1) complies with the ""Sustainable Development Goals"" https://sdg-tracker.org/ ;
-2) designed and developed in accordance with the ""Principles for Digital Development"" https://digitalprinciples.org/about/ ;
+1) complies with the "Sustainable Development Goals" https://sdg-tracker.org/ ;
+2) designed and developed in accordance with the "Principles for Digital Development" https://digitalprinciples.org/about/ ;
 3) published in the cloud-based GitHub or other Repository of Open Source (Open Code) Solutions;
-4) adhere to privacy and other applicable laws and best practices, do no harm by design and meet the ""Opencode.md Standards""; 
+4) adhere to privacy and other applicable laws and best practices, do no harm by design and meet the "Opencode.md Standards"; 
 5) are in working conditions.
 
 If you are curious to know about how the Opencode.md functions, visit our website.
