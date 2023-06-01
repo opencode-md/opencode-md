@@ -32,7 +32,7 @@ At OpenCode.md, we would present, show and promote the technology can enable cit
 If you are curious to know about how the Opencode.md functions, visit our website.
 
 <h3>We support 2 lists of Open Source Solutions:</h3>
-1) International Solutions from well known Brands, published on Github or other Repository of Open Source (Open Code) Solutions, and Trusted developers that have extended community, provided regular updates of its Solutions during the last 1,5 years.
+1) International Solutions from Well known Brands, published on Github or other Repository of Open Source (Open Code) Solutions, and Trusted developers that have extended community, provided regular updates of its Solutions during the last 1,5 years.
 
 2) Solutions submitted be developers to opencode.md and passed certification procedure,
 it is envisaged that this resource will bring together all open software solutions that:
