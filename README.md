@@ -16,33 +16,38 @@ Here are some ideas to get you started:
 <h2>The Open Content project "Open Source Solutions Registry for Moldova"</h2>
 Welcome to the Open Content page - OpenCode.md.
 
-Open Code is "Open Source Digital Public Goods". Such an application can be modified (modified, supplemented) to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
+Open Code is Open Source "Digital Public Goods" (https://en.wikipedia.org/wiki/Digital_public_goods). Such an application can be modified, supplemented to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
 
-The aim of the current initiative is to innovate through Open Code, Open Content, Open Standards and Open Data for transparency and civic tech.
-At OpenCode.md, we would present, show and promote the technology can enable citizens to more meaningfully engage in the public sphere and have a positive impact on community of Republic of Moldova and our neighboring countries
+The aim of the current initiative is to innovate through Open Code, Open Content, Open Standards and Open Data for transparency and civic tech. At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
 
-<h3>We maintain a Registry of Open Сode (Open Source) Solutions that comply the following basic principles:</h3>
+It should also be noted that Open Source Solutions can be a good force for a country's digital transformation efforts, including: Open Source Software helps government agencies better serve their citizens, Open Data and Open Content help digital solutions make better decisions, and Open Standards improve digital interoperability.
 
-- complies with the "Sustainable Development Goals" https://sdg-tracker.org/ ;
-- designed and developed in accordance with the "Principles for Digital Development" https://digitalprinciples.org/about/ ;
-- published in the cloud-based GitHub or other Repository of Open Source (Open Code) Solutions;
-- adhere to privacy and other applicable laws and best practices, do no harm by design and meet the "Opencode.md Standards"; 
+<h3>We maintain a Registry of Open Source Solutions that comply the following basic principles:</h3>
+
+- complies with the "Sustainable Development Goals" (https://sdg-tracker.org/)
+- used "Approved Open Licenses" (https://opensource.org/licenses/)
+- designed and developed in accordance with the "Principles for Digital Development" (https://digitalprinciples.org/principles/)
+- published in the cloud-based GitHub (https://github.com/) or other Repository of Open Source (Open Code) Solutions;
+- the solution is aimed at solving one of the  priority fields (content sections) (https://opencodemd.wordpress.com/content-sections/)
+- adhere to privacy and other applicable laws and best practices, do no harm by design and meet the "OpenCode.md Standards Requirements" (https://opencodemd.wordpress.com/standards-requirements/)
 - are in working conditions.
 
-If you are curious to know about how the Opencode.md functions, visit our website.
+If you are curious to know about how the Opencode.md functions, visit our website https://opencodemd.wordpress.com/.
 
 <h3>We support 2 lists of Open Source Solutions:</h3>
-<h4>1) International Solutions </h4>
-from 
-well known Brands, published on Github or other Repository of Open Source (Open Code) Solutions, and Trusted developers that have extended community, provided regular updates of its Solutions during the last 1,5 years.
+<h4>1) Trustful International Open Source Solutions (https://opencodemd.wordpress.com/project-sections/trustful-international-solutions/) </h4>
+
+- published on Github or other Repository of Open Source (Open Code) Solutions, and 
+- trusted developers that have extended community, 
+- provided regular updates of its Solutions during the last 1,5 years.
 
 <h4>2)  Solutions submitted be developers to opencode.md and passed certification procedure,</h4>
-it is envisaged that this resource will bring together all open software solutions that:
+it is provided, that this resource will bring together all open software solutions that:
 
-- developed requirements for proven and approved solutions;
+- developed in accordance with the requirements for proven and proven solutions;
 - published their solution on Github or other Open Source (Open Code) Solutions;
-- submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it; 
-- support the workability of your solution in the future;
-annual checks of the open source solution for compliance with tried and tested solutions are provided.
+- the solution is aimed at solving one of the  priority fields (content sections)
+- submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
+- support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
