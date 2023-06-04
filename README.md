@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>The Open Content project "Open Source Solutions Registry for Moldova"</h2>
-Welcome to the Open Content page - OpenCode.md. 
+Welcome to the Open Content page - OpenCode.md.
 
 Open Code is Open Source "Digital Public Goods" (https://en.wikipedia.org/wiki/Digital_public_goods). Such an application can be modified, supplemented to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
 
