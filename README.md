@@ -37,9 +37,9 @@ If you are curious to know about how the Opencode.md functions, visit [our websi
 <h3>We support 2 lists of Open Source Solutions:</h3>
 <h4>1) Trustful International Open Source Solutions </h4>
 
-to see list plese visit page ([Trustful International Open Source Solutions](https://opencodemd.wordpress.com/content-sections/trustful-international-oss/))
+to see list plese visit page [Trustful International Open Source Solutions](https://opencodemd.wordpress.com/content-sections/trustful-international-oss/).
 
-- published on any ([acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/)), and 
+- published on any [acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/), and 
 - trusted developers that have extended community, 
 - provided regular updates of its Solutions during the last 1,5 years.
 
@@ -47,7 +47,7 @@ to see list plese visit page ([Trustful International Open Source Solutions](htt
 it is provided, that this resource will bring together all open software solutions that:
 
 - developed in accordance with the requirements for proven and proven solutions;
-- published on any ([acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/));
+- published on GitHub any [acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/);
 - the solution is aimed at solving one of the  priority fields [content sections](https://opencodemd.wordpress.com/content-sections/);
 - submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
 - support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
