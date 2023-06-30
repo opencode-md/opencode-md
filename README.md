@@ -46,7 +46,7 @@ it is provided, that this resource will bring together all open software solutio
 
 - developed in accordance with the requirements for proven and proven solutions;
 - published on any acceptable Git Repository Services (https://opencodemd.wordpress.com/about/git-repository-services/);
-- the solution is aimed at solving one of the  priority fields (content sections)
+- the solution is aimed at solving one of the  priority fields ([content sections](https://opencodemd.wordpress.com/content-sections/)
 - submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
 - support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
