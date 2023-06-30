@@ -24,7 +24,7 @@ It should also be noted that Open Source Solutions can be a good force for a cou
 
 <h3>We maintain a Registry of Open Source Solutions that comply the following basic principles:</h3>
 
-- complies with the "Sustainable Development Goals" (https://sdg-tracker.org/)
+- complies with the ["Sustainable Development Goals"](https://sdg-tracker.org/)
 - used "Approved Open Licenses" (https://opensource.org/licenses/)
 - designed and developed in accordance with the "Principles for Digital Development" (https://digitalprinciples.org/principles/)
 - published on any acceptable Git Repository Services (https://opencodemd.wordpress.com/about/git-repository-services/);
