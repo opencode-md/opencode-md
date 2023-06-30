@@ -24,12 +24,12 @@ It should also be noted that Open Source Solutions can be a good force for a cou
 
 <h3>We maintain a Registry of Open Source Solutions that comply the following basic principles:</h3>
 
-- complies with the ["Sustainable Development Goals"](https://sdg-tracker.org/)
-- used ["Approved Open Licenses"](https://opensource.org/licenses/)
-- designed and developed in accordance with the ["Principles for Digital Development"](https://digitalprinciples.org/principles/)
+- complies with the ["Sustainable Development Goals"](https://sdg-tracker.org/);
+- used ["Approved Open Licenses"](https://opensource.org/licenses/);
+- designed and developed in accordance with the ["Principles for Digital Development"](https://digitalprinciples.org/principles/);
 - published on GitHub any [acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/);
-- the solution is aimed at solving one of the  priority fields (content sections) (https://opencodemd.wordpress.com/content-sections/)
-- adhere to privacy and other applicable laws and best practices, do no harm by design and meet the "OpenCode.md Standards Requirements" (https://opencodemd.wordpress.com/standards-requirements/)
+- the solution is aimed at solving one of the  priority fields [content sections](https://opencodemd.wordpress.com/content-sections/);
+- adhere to privacy and other applicable laws and best practices, do no harm by design and meet the ["OpenCode.md Standards Requirements"](https://opencodemd.wordpress.com/standards-requirements/);
 - are in working conditions.
 
 If you are curious to know about how the Opencode.md functions, visit our website https://opencodemd.wordpress.com/.
@@ -48,7 +48,7 @@ it is provided, that this resource will bring together all open software solutio
 
 - developed in accordance with the requirements for proven and proven solutions;
 - published on any ([acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/));
-- the solution is aimed at solving one of the  priority fields ([content sections](https://opencodemd.wordpress.com/content-sections/));
+- the solution is aimed at solving one of the  priority fields [content sections](https://opencodemd.wordpress.com/content-sections/);
 - submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
 - support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
