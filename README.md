@@ -20,7 +20,7 @@ Open Code is ["Open Source"](https://en.wikipedia.org/wiki/Open_source) targeted
 
 The aim of the current initiative is to innovate through [Open Source software (Open Code)](https://en.wikipedia.org/wiki/Open-source_software), [Open Content](https://simple.wikipedia.org/wiki/Open_content), [Open Standards](https://en.wikipedia.org/wiki/Open_standard) and [Open Data](https://en.wikipedia.org/wiki/Open_data) for transparency and civic tech. At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
 
-It should also be noted that Open Source Solutions can be a good force for a country's digital transformation efforts, including: Open Source Software helps government agencies better serve their citizens, Open Data and Open Content help digital solutions make better decisions, and Open Standards improve digital interoperability.
+Open Source Solutions can be a good force for a country's digital transformation efforts, including: Open Source Software helps government agencies better serve their citizens, Open Data and Open Content help digital solutions make better decisions, and Open Standards improve digital interoperability.
 
 <h3>We maintain a Registry of Open Source Solutions that comply the following basic principles:</h3>
 
