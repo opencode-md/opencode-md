@@ -32,7 +32,7 @@ It should also be noted that Open Source Solutions can be a good force for a cou
 - adhere to privacy and other applicable laws and best practices, do no harm by design and meet the ["OpenCode.md Standards Requirements"](https://opencodemd.wordpress.com/standards-requirements/);
 - are in working conditions.
 
-If you are curious to know about how the Opencode.md functions, visit our website https://opencodemd.wordpress.com/.
+If you are curious to know about how the Opencode.md functions, visit [our website](https://opencodemd.wordpress.com/).
 
 <h3>We support 2 lists of Open Source Solutions:</h3>
 <h4>1) Trustful International Open Source Solutions </h4>
