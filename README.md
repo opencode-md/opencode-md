@@ -27,7 +27,7 @@ It should also be noted that Open Source Solutions can be a good force for a cou
 - complies with the "Sustainable Development Goals" (https://sdg-tracker.org/)
 - used "Approved Open Licenses" (https://opensource.org/licenses/)
 - designed and developed in accordance with the "Principles for Digital Development" (https://digitalprinciples.org/principles/)
-- published in the cloud-based GitHub (https://github.com/) or other Repository of Open Source (Open Code) Solutions;
+- published on the cloud-based GitHub (https://github.com/) or any acceptable Git Repository Services (https://opencodemd.wordpress.com/about/git-repository-services/);
 - the solution is aimed at solving one of the  priority fields (content sections) (https://opencodemd.wordpress.com/content-sections/)
 - adhere to privacy and other applicable laws and best practices, do no harm by design and meet the "OpenCode.md Standards Requirements" (https://opencodemd.wordpress.com/standards-requirements/)
 - are in working conditions.
@@ -35,7 +35,7 @@ It should also be noted that Open Source Solutions can be a good force for a cou
 If you are curious to know about how the Opencode.md functions, visit our website https://opencodemd.wordpress.com/.
 
 <h3>We support 2 lists of Open Source Solutions:</h3>
-<h4>1) Trustful International Open Source Solutions (https://opencodemd.wordpress.com/project-sections/trustful-international-solutions/) </h4>
+<h4>1) Trustful International Open Source Solutions (https://opencodemd.wordpress.com/content-sections/trustful-international-oss/) </h4>
 
 - published on Github or other Repository of Open Source (Open Code) Solutions, and 
 - trusted developers that have extended community, 
@@ -45,7 +45,7 @@ If you are curious to know about how the Opencode.md functions, visit our websit
 it is provided, that this resource will bring together all open software solutions that:
 
 - developed in accordance with the requirements for proven and proven solutions;
-- published their solution on Github or other Open Source (Open Code) Solutions;
+- published their solution on Github or any acceptable Git Repository Services (https://opencodemd.wordpress.com/about/git-repository-services/);
 - the solution is aimed at solving one of the  priority fields (content sections)
 - submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
 - support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
