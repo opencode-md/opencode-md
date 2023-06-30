@@ -36,7 +36,7 @@ If you are curious to know about how the Opencode.md functions, visit our websit
 
 <h3>We support 2 lists of Open Source Solutions:</h3>
 <h4>1) Trustful International Open Source Solutions (https://opencodemd.wordpress.com/content-sections/trustful-international-oss/) </h4>
-<h4>1) [Trustful International Open Source Solutions](https://opencodemd.wordpress.com/content-sections/trustful-international-oss/) </h4>
+<h4>1) ([Trustful International Open Source Solutions](https://opencodemd.wordpress.com/content-sections/trustful-international-oss/) </h4>
 - published on any acceptable Git Repository Services (https://opencodemd.wordpress.com/about/git-repository-services/), and 
 - trusted developers that have extended community, 
 - provided regular updates of its Solutions during the last 1,5 years.
