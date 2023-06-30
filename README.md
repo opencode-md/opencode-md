@@ -27,7 +27,7 @@ It should also be noted that Open Source Solutions can be a good force for a cou
 - complies with the "Sustainable Development Goals" (https://sdg-tracker.org/)
 - used "Approved Open Licenses" (https://opensource.org/licenses/)
 - designed and developed in accordance with the "Principles for Digital Development" (https://digitalprinciples.org/principles/)
-- published on the cloud-based GitHub (https://github.com/) or any acceptable Git Repository Services (https://opencodemd.wordpress.com/about/git-repository-services/);
+- published on GitHub (https://github.com/) or any acceptable Git Repository Services (https://opencodemd.wordpress.com/about/git-repository-services/);
 - the solution is aimed at solving one of the  priority fields (content sections) (https://opencodemd.wordpress.com/content-sections/)
 - adhere to privacy and other applicable laws and best practices, do no harm by design and meet the "OpenCode.md Standards Requirements" (https://opencodemd.wordpress.com/standards-requirements/)
 - are in working conditions.
