@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Open Source products and Digital Public Goods</h2>
-Welcome to the Open Content Project page - OpenCode.md.
+Welcome to the Open Content Project page - OpenCode.md. 
 The [OpenCode.md](https://opencode.md/en/) project is a Registry of Open Source products that meet the requirements of ["Digital Public Goods"](https://opencode.md/en/about/digital-public-goods/) in Moldova.
 Such an application can be modified, supplemented to fit your needs without violating the developers’ copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
 
