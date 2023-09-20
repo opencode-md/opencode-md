@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>The OpenCode.md project is a Registry of Open Source products that meet the requirements of ["Digital Public Goods"](https://opencode.md/en/about/digital-public-goods/) in Moldova.<h2>
+Such an application can be modified, supplemented to fit your needs without violating the developers’ copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
+
+Open source usually refers to software that people can modify, share, and re-use because its design or “source code” is made publicly accessible. In order the software to be recognised as a digital public good, it must demonstrate use of an approved open license.
+
+Digital transformation is the integration of digital technologies by companies and the impact of the technologies on society.
+Technologies could help to optimise production, reduce emissions and waste, boost companies’ competitive advantages and bring new services and products to consumers.
+
+We present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
+
 <h2>The Open Content project "Open Source Solutions Registry for Moldova"</h2>
 Welcome to the Open Content Project page - OpenCode.md.
 
