@@ -38,7 +38,8 @@ Open Source Solutions can be a good force for a country's digital transformation
 - designed and developed in accordance with the ["Principles for Digital Development"](https://opencode.md/en/about/principles-digital-development/);
 - published on any [acceptable Git Repository Services](https://opencode.md/en/about/git-repositories/);
 - belong to any theme of [Software Registry](https://opencode.md/en/registry/);
-- adhere to privacy and other applicable laws and best practices, do no harm by design and meet the ["OpenCode.md Requirements"](https://opencode.md/en/about/requirements/);
+- adhere to privacy and other applicable laws and best practices, do no harm by design;
+- meet the ["OpenCode.md Requirements"](https://opencode.md/en/about/requirements/) and;
 - are in working conditions.
 
 If you are curious to know about how the Opencode.md functions, visit [our website](https://opencodemd.wordpress.com/).
@@ -50,7 +51,7 @@ to see the list, visit the page [Trustful International Open Source Solutions](h
 
 - published on any [acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/), and 
 - trusted developers that have extended community, 
-- provided regular updates of its Solutions during the last 1,5 years.
+- provided regular updates of its Solutions during the last 1 year.
 
 <h4>2)  Solutions submitted be developers to opencode.md and passed verification procedure,</h4>
 it is provided, that this resource will bring together all open software solutions that:
