@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2>Open Source products and Digital Public Goods for Moldova</h2>
 
-Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en){target="_blank"}.
+Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en).
 
 The OpenCode.md project is a [Registry](https://opencode.md/en/registry) of [Open Source](https://opencode.md/en/about/open-source-software) products that meet the [requirements](https://opencode.md/en/about/requirements) of ["Digital Public Goods"](https://opencode.md/en/about/digital-public-goods) in Moldova.
 
@@ -33,7 +33,7 @@ Open Source Solutions can be a good force for a country's digital transformation
 
 <h3>We maintain a Registry of Open Source Solutions that comply the following basic principles:</h3>
 
-- complies with the ["Sustainable Development Goals"](https://sdg-tracker.org/);
+- complies with the ["Sustainable Development Goals"](https://opencode.md/en/about/sustainable-development-goals/);
 - used ["Approved Open Licenses"](https://opensource.org/licenses/);
 - designed and developed in accordance with the ["Principles for Digital Development"](https://digitalprinciples.org/principles/);
 - published on GitHub any [acceptable Git Repository Services](https://opencodemd.wordpress.com/about/git-repository-services/);
