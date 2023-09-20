@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Open Source products and Digital Public Goods</h2>
+<h2>Open Source products and Digital Public Goods for Moldova</h2>
 
 Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en).
 
@@ -28,12 +28,7 @@ Technologies could help to optimise production, reduce emissions and waste, boos
 
 We present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
 
-<h2>The Open Content project "Open Source Solutions Registry for Moldova"</h2>
-Welcome to the Open Content Project page - OpenCode.md.
-
-Open Code is ["Open Source"](https://en.wikipedia.org/wiki/Open_source) targeted as ["Digital Public Goods"](https://en.wikipedia.org/wiki/Digital_public_goods). Such an application can be modified, supplemented to fit your needs without violating the developers' copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
-
-The aim of the current initiative is to innovate through [Open Source software (Open Code)](https://en.wikipedia.org/wiki/Open-source_software), [Open Content](https://simple.wikipedia.org/wiki/Open_content), [Open Standards](https://en.wikipedia.org/wiki/Open_standard) and [Open Data](https://en.wikipedia.org/wiki/Open_data) for transparency and civic tech. At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
+The aim of the project is to innovate through [Open Source software (Open Code)](https://opencode.md/en/about/open-source-software), [Open Content](https://simple.wikipedia.org/wiki/Open_content), [Open Standards](https://en.wikipedia.org/wiki/Open_standard) and [Open Data](https://en.wikipedia.org/wiki/Open_data) for transparency and civic tech. At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
 
 Open Source Solutions can be a good force for a country's digital transformation efforts, including: Open Source Software helps government agencies better serve their citizens, Open Data and Open Content help digital solutions make better decisions, and Open Standards improve digital interoperability.
 
