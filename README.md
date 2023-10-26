@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en).
 
-The OpenCode.md project is a [Registry](https://opencode.md/en/registry/) of [Open Source](https://opencode.md/en/about/open-source-software/) products that meet the [requirements](https://opencode.md/en/about/requirements/) of ["Digital Public Goods"](https://opencode.md/en/about/digital-public-goods/) in Moldova.
+The OpenCode.md project is a [Registry](https://opencode.md/en/registry/) of [Open Source](https://en.wikipedia.org/wiki/Open_source) products that meet the requirements of ["Digital Public Goods"](https://opencode.md/en/about/digital-public-goods/) in Moldova.
 
 A Digital Public Good is defined as: [Open Source Software](https://opencode.md/en/about/open-source-software/), [Open Data](https://opencode.md/en/about/open-data/), Open AI models, [Open Standards](https://opencode.md/en/about/open-standards/) and [Open Content](https://opencode.md/en/about/open-content/) that meet all [requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), help achieve the Sustainable Development Goals, were developed based on the Digital Development Principles, adhere to privacy and other applicable laws and best practices, do no harm, are published in one of the approved Git repositories, and demonstrate the use [approved Open License](https://opencode.md/en/about/approved-open-licenses/).
 
