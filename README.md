@@ -18,9 +18,7 @@ Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en)
 
 The OpenCode.md project is a [Registry](https://opencode.md/en/registry/) of [Open Source](https://opencode.md/en/about/open-source-software/) products that meet the [requirements](https://opencode.md/en/about/requirements/) of ["Digital Public Goods"](https://opencode.md/en/about/digital-public-goods/) in Moldova.
 
-Such an application can be modified, supplemented to fit your needs without violating the developers’ copyrights, as well as studied for vulnerabilities, used to develop other programs, etc.
-
-Open source usually refers to software that people can modify, share, and re-use because its design or “source code” is made publicly accessible. In order the software to be recognised as a digital public good, it must demonstrate use of an [approved open license](https://opencode.md/en/about/approved-open-licenses/).
+A Digital Public Good is defined as: [Open Source Software](https://opencode.md/en/about/open-source-software/), [Open Data](https://opencode.md/en/about/open-data/), Open AI models, [Open Standards](https://opencode.md/en/about/open-standards/) and [Open Content](https://opencode.md/en/about/open-content/) that meet all [requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), help achieve the Sustainable Development Goals, were developed based on the Digital Development Principles, adhere to privacy and other applicable laws and best practices, do no harm, are published in one of the approved Git repositories, and demonstrate the use [approved Open License](https://opencode.md/en/about/approved-open-licenses/).
 
 [Digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) is the integration of digital technologies by companies and the impact of the technologies on society.
 Technologies could help to optimise production, reduce emissions and waste, boost companies’ competitive advantages and bring new services and products to consumers.
