@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Open Source products and Digital Public Goods for Moldova</h2>
+<h2>Open Source products and Digital Public Goods to Moldova</h2>
 
 Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en).
 
