@@ -111,6 +111,6 @@ by API with GitHub, basing on the analysis of the activity of the developers in 
 <h3>Development plans for Opencode.md</h3>
 
 - development of API for exchanging information about search indexes between projects created based on the core of the open source solution;
-- implementation of API for exchanging information with the Open Web Index project (if such API be awailable).
+- implementation of API for exchanging information with the Open Web Index project (if such API be available).
 
 
