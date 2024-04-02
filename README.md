@@ -40,7 +40,7 @@ The aim of the project is to innovate through Open Source software (Open Code), 
   - in [Civic Tech](https://opencode.md/en/about/civic-tech/) allows effective interacion inside [civil society](https://en.wikipedia.org/wiki/Civil_society) and
   - in [GovTech](https://opencode.md/en/about/civictech-govtech/) helps government agencies better serve [public sector](https://en.wikipedia.org/wiki/Public_sector) and their citizens,
 - Open Data and Open Content help digital solutions make better decisions, and
-- Open Standards improve digital interoperability.
+- Open Standards improve [digital interoperability](https://en.wikipedia.org/wiki/Interoperability).
 
 If you are curious to know about how the Opencode.md functions, visit [our website](https://opencode.md/en).
 
