@@ -95,12 +95,15 @@ this is solutions that corresponds the Requirements for Open Source Solutions (s
 Mentioned solutions from both lists are periodically indexed by the Opencode.md crawler application that corresponds to Requirements indicated above. 
 
 The audience of our service is the companies and physical persons that are interested in using trustful and secured Open Source solutions that are in working conditions and updated regularly and secured and that don't bring harm.
+
 The examples of such users:
+
 - Developers of Open Source Solutions
 - Innovators
 - Companies that implement Open source Solution
 
-You can create and support own structured Registry of Open Source products (solutions) (or its descriptions)
+You can create and support own structured Registry of Open Source products (solutions) or its descriptions:
+
 - for public organizations as the Register of government products
 - for country, municipal or regional entities as Register of products of local government
 - for niche solutions (Linux DevOps, Open AI models, agriculture, medical etc.) 
@@ -108,22 +111,24 @@ You can create and support own structured Registry of Open Source products (solu
 - for NGO and Non-profit organizations as own Resister of solutions, important documents et.
 - for event, conference or hackathon organizers to keep the structured result of their activity
 <hr>
-The OpenCode.md ensure 3 types priority of scanning accounts and solutions that hosting on  approved Git Repositories: 
-
-1) the Highest priority:
+<h3>The OpenCode.md ensure 3 types priority of scanning accounts and solutions that hosting on  approved Git Repositories: </h3>
+<h4>1) the Highest priority:</h4>
 Scanning of the products from own Registry of OpenCode.md, including:
+
 - International trustful solutions (selection of Opencode.md administration)
 - Solutions that submitted application and it be included into the Registry 
 (by initiative of owner the Open source product)
 
-2) The Middle priority: 
-by API with GitHub from the internal list of the Opencode.md, including: 
+<h4>2) The Middle priority: </h4>h4>
+by API with GitHub from the internal list of the Opencode.md, including:
+
 - accounts of the companies or developers  
 - solutions of Open Source solutions of the governments
 - solutions of third party Registers
 
-3) The Low priority: 
+<h4>3) The Low priority: </h4>
 by API with GitHub, basing on the analysis of the activity of the developers in Github Repository:
+
 - accounts of the companies or developers  
 - solutions of Open source solutions 
 
