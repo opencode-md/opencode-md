@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  <img width="600px" src="/images/gradient-omnichannel-illustration_23-2149350373.jpg" alt="OpenCode.md"/>
 </p>
 
-<h2>Open Source products and Digital Public Goods to Moldova</h2>
+<h2>Open Source products, Digital Public Goods (international) and/or Digital/Internet commons (EU)</h2>
 
 Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en).
 
@@ -52,8 +52,8 @@ This resource is intended to bring together all open source software solutions t
 
 <hr>
 
- The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
-Digital/Internet commons (EU) , published on Approved Git Repositories and use open licenses.
+The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
+Digital/Internet commons (EU), published on Approved Git Repositories and use open licenses.
 
 A Digital Public Goods (DPG) is defined as:
 - open source software,
