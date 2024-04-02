@@ -37,7 +37,7 @@ Open Source Solutions can be a good force for a country's digital transformation
 If you are curious to know about how the Opencode.md functions, visit [our website](https://opencode.md/en).
 
 <h3>We support 2 kinds of Open Source Solutions:</h3>
-<h4>1) Trustful International Open Source Solutions </h4>
+<h4>1) Trustful International Open Source Solutions</h4>
 
 - trusted developers that have extended community, 
 - provided regular updates of its Solutions during the last 1 year.
@@ -86,7 +86,7 @@ This is trustful International solutions that we included ourselves into the Reg
 and that corresponds to the following requirements 
 - are in working conditions 
 - have state (status) Active
-- show one of the license from the list of Approved Open Licenses (see above)
+- use one license from the list of Approved Open Licenses (see above)
 - have extensive community of Open source Developers that support this solution 
 - updated regularly, at least 1 time per year 
 
@@ -108,8 +108,9 @@ You can create and support own structured Registry of Open Source products (solu
 - for educational institutions as Register of own Open Source solutions
 - for NGO and Non-profit organizations as own Resister of solutions, important documents et.
 - for event, conference or hackathon organizers to keep the structured result of their activity
-
+<hr>
 The OpenCode.md ensure 3 types priority of scanning accounts and solutions that hosting on  approved Git Repositories: 
+
 1) the Highest priority:
 Scanning of the products from own Registry of OpenCode.md, including:
 - International trustful solutions (selection of Opencode.md administration)
