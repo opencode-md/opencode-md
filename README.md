@@ -67,7 +67,7 @@ This is trustful International solutions that we included ourselves into the Reg
 - have "Active" state (status);
 - use one license from the list of [Approved Open Licenses](https://opencode.md/en/about/approved-open-licenses/);
 - have extensive community of Open source Developers that support this solution;
-- updated regularly 9at least 1 time per year).
+- updated regularly (at least 1 time per year).
 
 <h4>List 2) Submitted application to be included into the the Registry of OpenCode.md</h4>
 
