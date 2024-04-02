@@ -98,7 +98,7 @@ Mentioned solutions from both lists are periodically indexed by the Opencode.md 
 The audience of our service is the companies and physical persons that are interested in using trustful and secured Open Source solutions that are in working conditions and updated regularly and secured and that don't bring harm.
 The examples of such users:
 - Developers of Open Source Solutions
-- Enthusiasts
+- Innovators
 - Companies that implement Open source Solution
 
 You can create and support own structured Registry of Open Source products (solutions) (or its descriptions)
