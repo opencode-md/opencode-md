@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  <img width="600px" src="/images/gradient-omnichannel-illustration_23-2149350373.jpg" alt="OpenCode.md"/>
 </p>
 
-<h2>Open Source products, Digital Public Goods (international) and/or Digital/Internet commons (EU)</h2>
+<h2>Open Source products, Digital Public Goods (international), Digital/Internet commons (EU)</h2>
 
 Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en).
 
