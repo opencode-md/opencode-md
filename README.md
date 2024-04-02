@@ -119,7 +119,7 @@ Scanning of the products from own Registry of OpenCode.md, including:
 - Solutions that submitted application and it be included into the Registry 
 (by initiative of owner the Open source product)
 
-<h4>2) The Middle priority: </h4>h4>
+<h4>2) The Middle priority: </h4>
 by API with GitHub from the internal list of the Opencode.md, including:
 
 - accounts of the companies or developers  
