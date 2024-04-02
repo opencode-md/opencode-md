@@ -80,7 +80,7 @@ for more details, https://opencode.md/en/about/digital-internet-commons-eu/
 The Registry of Digital Public goods is divided into 21 topics and presented here:
 https://opencode.md/en/registry/
 <hr>
-We keep 2 kinds of the list of solutions: 
+<h3>We keep 2 kinds of the list of solutions:</h3>
 List 1) International 
 This is trustful International solutions that we included ourselves into the Registry 
 and that corresponds to the following requirements 
