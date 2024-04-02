@@ -54,7 +54,8 @@ If you are curious to know about how the Opencode.md functions, visit [our websi
 it is provided, that this resource will bring together all open software solutions that:
 
 - submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
-- support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
+- support the workability of your solution in the future;
+- annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
 <hr>
@@ -62,17 +63,17 @@ This resource is intended to bring together all open source software solutions t
 <h4>List 1) International </h4>
 This is trustful International solutions that we included ourselves into the Registry and corresponds to the following requirements: 
 
-- are in working conditions 
-- have "Active" state (status)
-- use one license from the list of [Approved Open Licenses](https://opencode.md/en/about/approved-open-licenses/)
-- have extensive community of Open source Developers that support this solution
-- updated regularly 9at least 1 time per year)
+- are in working conditions; 
+- have "Active" state (status);
+- use one license from the list of [Approved Open Licenses](https://opencode.md/en/about/approved-open-licenses/);
+- have extensive community of Open source Developers that support this solution;
+- updated regularly 9at least 1 time per year).
 
 <h4>List 2) Submitted application to be included into the the Registry of OpenCode.md</h4>
 
 this solutions corresponds the [Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
 
-The solutions from both lists are periodically indexed by the Opencode.md crawler application that corresponds to Requirements indicated above. 
+The solutions from both lists are periodically indexed by the Opencode.md crawler.  
 
 The audience of our service is the companies and physical persons that are interested in using trustful and secured Open Source solutions that are in working conditions and updated regularly and secured and that don't bring harm.
 
