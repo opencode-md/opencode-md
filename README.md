@@ -79,8 +79,8 @@ The audience of our service is the companies and physical persons that are inter
 <h4>own structured Registry of Open Source products (solutions)</h4>
 You can create and support own structured Registry of Open Source products (solutions) or its descriptions:
 
-- for public organizations as the Register of government products
-- for country, municipal or regional entities as Register of products of local government
+- for public organizations as the Registry of government products
+- for country, municipal or regional entities as Registry of products of local government
 - for niche solutions (Linux DevOps, Open AI models, agriculture, medical etc.) 
 - for educational institutions as Registry of own Open Source solutions
 - for NGO and Non-profit organizations as own Resister of solutions, important documents etс.
@@ -99,7 +99,7 @@ by API with GitHub from the internal list of the Opencode.md, including:
 
 - accounts of the companies or developers  
 - solutions of Open Source solutions of the governments
-- solutions of third party Registers
+- solutions of third party Registry
 
 <h4>3) The Low priority:</h4>
 by API with GitHub, basing on the analysis of the activity of the developers in Github Repository:
