@@ -110,7 +110,7 @@ by API with GitHub, basing on the analysis of the activity of the developers in 
 
 - development API for exchanging information about search indexes between projects created based on the core of the open source solution;
 - implementaion API for exchanging information with the Open Web Index project.
-
+<hr>
 <hr>
 The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
 Digital/Internet commons (EU), published on Approved Git Repositories and use open licenses.
