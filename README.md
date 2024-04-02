@@ -44,3 +44,56 @@ it is provided, that this resource will bring together all open software solutio
 - support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
+
+<hr>
+
+ The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
+Digital/Internet commons (EU) , published on Approved Git Repositories and use open licenses.
+
+A Digital Public Goods (DPG) is defined as:
+- open source software,
+- open data,
+- open AI models,
+- open standards and
+- open content
+
+More details about DPG,
+https://opencode.md/en/about/digital-public-goods/
+
+Requirements for Open Source Solutions, more details
+https://opencode.md/en/about/requirements/
+
+Approved Open Licenses, more details
+https://opencode.md/en/about/approved-open-licenses/
+
+The list of Approved Git Repositories is presented here
+https://opencode.md/en/about/git-repositories/
+
+The Digital/internet commons (EU) includes open source software, open hardware, open design, open licensing, open standards and open data.
+for more details, https://opencode.md/en/about/digital-internet-commons-eu/
+
+The Registry of Digital Public goods is divided into 21 topics and presented here:
+https://opencode.md/en/registry/
+
+We keep 2 kinds of the list of solutions: 
+List 1) International 
+This is trustful International solutions that we included ourselves into the Registry 
+and that corresponds to the following requirements 
+- are in working conditions 
+- have state (status) Active
+- show one of the license from the list of Approved Open Licenses (see above)
+- have extensive community of Open source Developers that support this solution 
+- updated regularly, at least 1 time per year 
+
+List 2) Submitted application to be included into the the Registry of OpenCode.md 
+this is solutions that corresponds the Requirements for Open Source Solutions (see above)
+
+Mentioned solutions from both lists are periodically indexed by the Opencode.md crawler application that corresponds to Requirements indicated above. 
+
+The audience of our service is the companies and physical persons that are interested in using trustful and secured Open Source solutions that are in working conditions and updated regularly and secured and that don't bring harm.
+The examples of such users:
+- Developers of Open Source Solutions
+- Enthusiasts
+- Companies that implement Open source Solution
+
+
