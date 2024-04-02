@@ -117,7 +117,8 @@ by API with GitHub, basing on the analysis of the activity of the developers in 
 - solutions of Open source solutions
   
 <hr>
-<h3>Our plans include development</h3>
+<h3>Our plans include development</h3> 
+
 - API for exchanging information about search indexes between projects created on the basis of the open source solution core from Opencode.md
 - API for exchanging information with the Open Web Index project
 <hr>
