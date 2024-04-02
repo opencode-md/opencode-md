@@ -37,7 +37,7 @@ The aim of the project is to innovate through Open Source software (Open Code), 
 <h4>Open Source Solutions can be a good force for a country's digital transformation efforts, including:</h4>
 
 - Open Source Software
-  - in [Civic Tech](https://opencode.md/en/about/civic-tech/) allows effective interacion inside [civil society](https://en.wikipedia.org/wiki/Civil_society) and
+  - in [Civic Tech](https://opencode.md/en/about/civic-tech/) allows effective interaction inside [civil society](https://en.wikipedia.org/wiki/Civil_society) and
   - in [GovTech](https://opencode.md/en/about/civictech-govtech/) helps government agencies better serve [public sector](https://en.wikipedia.org/wiki/Public_sector) and their citizens,
 - Open Data and Open Content help digital solutions make better decisions, and
 - Open Standards improve [digital interoperability](https://en.wikipedia.org/wiki/Interoperability).
@@ -66,7 +66,7 @@ This is trustful International solutions that we included ourselves into the Reg
 - are in working conditions; 
 - have "Active" state (status);
 - use one license from the list of [Approved Open Licenses](https://opencode.md/en/about/approved-open-licenses/);
-- have extensive community of Open source Developers that support this solution;
+- have an extensive community of Open source Developers supporting this solution;
 - updated regularly (at least 1 time per year).
 
 <h4>List 2) Submitted application to be included into the the Registry of OpenCode.md</h4>
@@ -92,7 +92,7 @@ You can create and support own structured Registry of Open Source products (solu
 - for country, municipal or regional entities as Register of products of local government
 - for niche solutions (Linux DevOps, Open AI models, agriculture, medical etc.) 
 - for educational institutions as Register of own Open Source solutions
-- for NGO and Non-profit organizations as own Resister of solutions, important documents et.
+- for NGO and Non-profit organizations as own Resister of solutions, important documents etс.
 - for event, conference or hackathon organizers to keep the structured result of their activity
 <hr>
 <h3>The OpenCode.md ensure 3 types priority of scanning accounts and solutions that hosting on  approved Git Repositories: </h3>
@@ -103,14 +103,14 @@ Scanning of the products from own Registry of OpenCode.md, including:
 - Solutions that submitted application and it be included into the Registry 
 (by initiative of owner the Open source product)
 
-<h4>2) The Middle priority: </h4>
+<h4>2) The Middle priority:</h4>
 by API with GitHub from the internal list of the Opencode.md, including:
 
 - accounts of the companies or developers  
 - solutions of Open Source solutions of the governments
 - solutions of third party Registers
 
-<h4>3) The Low priority: </h4>
+<h4>3) The Low priority:</h4>
 by API with GitHub, basing on the analysis of the activity of the developers in Github Repository:
 
 - accounts of the companies or developers  
