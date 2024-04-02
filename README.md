@@ -30,7 +30,7 @@ The [Digital/internet commons (EU)](https://opencode.md/en/about/digital-interne
 [Digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) is the integration of digital technologies by companies and the impact of the technologies on [society](https://en.wikipedia.org/wiki/Civil_society).
 Technologies could help to optimise production, reduce emissions and waste, boost companies’ competitive advantages and bring new services and products to consumers.
 
-We present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
+We present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the civil society and community.
 
 The aim of the project is to innovate through Open Source software (Open Code), Open Content, Open Standards and Open Data for transparency and [Civic Tech](https://opencode.md/en/about/civic-tech/). At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the Open Source community. 
 
