@@ -109,7 +109,8 @@ by API with GitHub, basing on the analysis of the activity of the developers in 
 
 - accounts of the companies or developers  
 - solutions of Open source solutions
-- <hr>
+  
+<hr>
 
 The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
 Digital/Internet commons (EU), published on Approved Git Repositories and use open licenses.
