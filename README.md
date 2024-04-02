@@ -44,36 +44,25 @@ The aim of the project is to innovate through Open Source software (Open Code), 
 
 If you are curious to know about how the Opencode.md functions, visit [our website](https://opencode.md/en).
 <hr>
-<h3>We support 2 kinds of Open Source Solutions:</h3>
+<h3>Opencode.md support 2 kinds of Open Source Solutions:</h3>
 <h4>1) Trustful International Open Source Solutions:</h4>
+    • trusted developers that have extended community;
+    • are in working conditions;
+    • have "Active" state (status);
+    • use one license from the list of Approved Open Licenses;
+    • have an extensive community of Open source Developers supporting this solution;
+    • updated regularly (at least 1 time per year).
 
-- trusted developers that have extended community, 
-- provided regular updates of its Solutions during the last 1 year.
-
-<h4>2)  Solutions submitted be developers to opencode.md and passed verification procedure,</h4>
+<h4>2) Solutions submitted be developers to opencode.md and passed verification procedure,</h4>
 it is provided, that this resource will bring together all open software solutions that:
+    • submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
+    • support the workability of your solution in the future;
+    • annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
-- submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
-- support the workability of your solution in the future;
-- annual checks of the open source solution for compliance with tried and tested solutions are provided.
-
+This solution corresponds to the Requirements for Open Source Solutions,
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
+The solutions from both lists are periodically indexed by the Opencode.md crawler.
 
-<h3>We keep 2 kinds of the list of solutions:</h3>
-<h4>List 1) International</h4>
-This is trustful International solutions that we included ourselves into the Registry and corresponds to the following requirements: 
-
-- are in working conditions; 
-- have "Active" state (status);
-- use one license from the list of [Approved Open Licenses](https://opencode.md/en/about/approved-open-licenses/);
-- have an extensive community of Open source Developers supporting this solution;
-- updated regularly (at least 1 time per year).
-
-<h4>List 2) Submitted application to be included into the the Registry of OpenCode.md</h4>
-
-this solutions corresponds the [Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
-
-The solutions from both lists are periodically indexed by the Opencode.md crawler.  
 <hr>
 <h3>Target Audience</h3>
 
@@ -150,5 +139,35 @@ for more details, https://opencode.md/en/about/digital-internet-commons-eu/
 
 The Registry of Digital Public goods is divided into 21 topics and presented here:
 https://opencode.md/en/registry/
+<hr>
+<h3>We support 2 kinds of Open Source Solutions:</h3>
+<h4>1) Trustful International Open Source Solutions:</h4>
 
+- trusted developers that have extended community, 
+- provided regular updates of its Solutions during the last 1 year.
+
+<h4>2)  Solutions submitted be developers to opencode.md and passed verification procedure,</h4>
+it is provided, that this resource will bring together all open software solutions that:
+
+- submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
+- support the workability of your solution in the future;
+- annual checks of the open source solution for compliance with tried and tested solutions are provided.
+
+This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
+
+<h3>We keep 2 kinds of the list of solutions:</h3>
+<h4>List 1) International</h4>
+This is trustful International solutions that we included ourselves into the Registry and corresponds to the following requirements: 
+
+- are in working conditions; 
+- have "Active" state (status);
+- use one license from the list of [Approved Open Licenses](https://opencode.md/en/about/approved-open-licenses/);
+- have an extensive community of Open source Developers supporting this solution;
+- updated regularly (at least 1 time per year).
+
+<h4>List 2) Submitted application to be included into the the Registry of OpenCode.md</h4>
+
+this solutions corresponds the [Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
+
+The solutions from both lists are periodically indexed by the Opencode.md crawler.  
 
