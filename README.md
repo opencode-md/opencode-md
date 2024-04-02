@@ -61,7 +61,7 @@ it is provided, that this resource will bring together all open software solutio
 - support the workability of your solution in the future;
 - annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
-This solution corresponds to the Requirements for Open Source Solutions,
+This solutions corresponds the [Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
 The solutions from both lists are periodically indexed by the Opencode.md crawler.
 
