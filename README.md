@@ -107,6 +107,7 @@ You can create and support own structured Registry of Open Source products (solu
 - for niche solutions (Linux DevOps, Open AI models, agriculture, medical etc.) 
 - for educational institutions as Register of own Open Source solutions
 - for NGO and Non-profit organizations as own Resister of solutions, important documents et.
-- for event, conference or hackthon ornanizers to keep the structured result of their acitity
+- for event, conference or hackathon organizers to keep the structured result of their activity
+
 
 
