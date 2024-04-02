@@ -119,9 +119,8 @@ by API with GitHub, basing on the analysis of the activity of the developers in 
 <hr>
 <h3>Development plans for Opencode.md</h3>
 
-- API for exchanging information about search indexes between projects created based on the core of the open source solution;
-- API for exchanging information with the Open Web Index project.
-
+- development API for exchanging information about search indexes between projects created based on the core of the open source solution;
+- implementaion API for exchanging information with the Open Web Index project.
 
 <hr>
 The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
