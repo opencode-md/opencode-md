@@ -57,36 +57,6 @@ it is provided, that this resource will bring together all open software solutio
 - support the workability of your solution in the future; annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
-
-<hr>
-
-The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
-Digital/Internet commons (EU), published on Approved Git Repositories and use open licenses.
-
-A Digital Public Goods (DPG) is defined as:
-- open source software,
-- open data,
-- open AI models,
-- open standards and
-- open content
-
-More details about DPG,
-https://opencode.md/en/about/digital-public-goods/
-
-Requirements for Open Source Solutions, more details
-https://opencode.md/en/about/requirements/
-
-Approved Open Licenses, more details
-https://opencode.md/en/about/approved-open-licenses/
-
-The list of Approved Git Repositories is presented here
-https://opencode.md/en/about/git-repositories/
-
-The Digital/internet commons (EU) includes open source software, open hardware, open design, open licensing, open standards and open data.
-for more details, https://opencode.md/en/about/digital-internet-commons-eu/
-
-The Registry of Digital Public goods is divided into 21 topics and presented here:
-https://opencode.md/en/registry/
 <hr>
 <h3>We keep 2 kinds of the list of solutions:</h3>
 <h4>List 1) International </h4>
@@ -138,6 +108,35 @@ by API with GitHub from the internal list of the Opencode.md, including:
 by API with GitHub, basing on the analysis of the activity of the developers in Github Repository:
 
 - accounts of the companies or developers  
-- solutions of Open source solutions 
+- solutions of Open source solutions
+- <hr>
+
+The OpenCode.md project is a Registry of Open Source products that meet the requirements of “Digital Public Goods“ (International), and
+Digital/Internet commons (EU), published on Approved Git Repositories and use open licenses.
+
+A Digital Public Goods (DPG) is defined as:
+- open source software,
+- open data,
+- open AI models,
+- open standards and
+- open content
+
+More details about DPG,
+https://opencode.md/en/about/digital-public-goods/
+
+Requirements for Open Source Solutions, more details
+https://opencode.md/en/about/requirements/
+
+Approved Open Licenses, more details
+https://opencode.md/en/about/approved-open-licenses/
+
+The list of Approved Git Repositories is presented here
+https://opencode.md/en/about/git-repositories/
+
+The Digital/internet commons (EU) includes open source software, open hardware, open design, open licensing, open standards and open data.
+for more details, https://opencode.md/en/about/digital-internet-commons-eu/
+
+The Registry of Digital Public goods is divided into 21 topics and presented here:
+https://opencode.md/en/registry/
 
 
