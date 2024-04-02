@@ -34,7 +34,11 @@ We present, show and promote the technology that can enable citizens to more mea
 
 The aim of the project is to innovate through Open Source software (Open Code), Open Content, Open Standards and Open Data for transparency and [Civic Tech](https://opencode.md/en/about/civic-tech/). At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the Open Source community. 
 
-Open Source Solutions can be a good force for a country's digital transformation efforts, including: Open Source Software in [Civic Tech](https://opencode.md/en/about/civic-tech/) allows effective inetracion inside civil society and in GovTech helps government agencies better serve their citizens, Open Data and Open Content help digital solutions make better decisions, and Open Standards improve digital interoperability.
+<h4>Open Source Solutions can be a good force for a country's digital transformation efforts, including:</h4>
+
+- Open Source Software in [Civic Tech](https://opencode.md/en/about/civic-tech/) allows effective interacion inside civil society and in [GovTech[(https://opencode.md/en/about/civictech-govtech/) helps government agencies better serve their citizens,
+- Open Data and Open Content help digital solutions make better decisions, and
+- Open Standards improve digital interoperability.
 
 If you are curious to know about how the Opencode.md functions, visit [our website](https://opencode.md/en).
 
