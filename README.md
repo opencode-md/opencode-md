@@ -81,9 +81,8 @@ The Registry of Digital Public goods is divided into 21 topics and presented her
 https://opencode.md/en/registry/
 <hr>
 <h3>We keep 2 kinds of the list of solutions:</h3>
-List 1) International 
-This is trustful International solutions that we included ourselves into the Registry 
-and that corresponds to the following requirements 
+<h4>List 1) International </h4>
+This is trustful International solutions that we included ourselves into the Registry and corresponds to the following requirements 
 - are in working conditions 
 - have state (status) Active
 - use one license from the list of Approved Open Licenses (see above)
