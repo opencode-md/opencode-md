@@ -43,7 +43,7 @@ The aim of the project is to innovate through Open Source software (Open Code), 
 - Open Standards improve [digital interoperability](https://en.wikipedia.org/wiki/Interoperability).
 
 If you are curious to know about how the Opencode.md functions, visit [our website](https://opencode.md/en).
-
+<hr>
 <h3>We support 2 kinds of Open Source Solutions:</h3>
 <h4>1) Trustful International Open Source Solutions:</h4>
 
@@ -58,7 +58,7 @@ it is provided, that this resource will bring together all open software solutio
 - annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
-<hr>
+
 <h3>We keep 2 kinds of the list of solutions:</h3>
 <h4>List 1) International</h4>
 This is trustful International solutions that we included ourselves into the Registry and corresponds to the following requirements: 
@@ -74,7 +74,7 @@ This is trustful International solutions that we included ourselves into the Reg
 this solutions corresponds the [Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
 
 The solutions from both lists are periodically indexed by the Opencode.md crawler.  
-
+<hr>
 <h3>Target Audience</h3>
 
 The audience of our service is the companies and physical persons that are interested in using trustful and secured Open Source solutions that are in working conditions and updated regularly and secured and that don't bring harm.
