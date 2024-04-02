@@ -79,7 +79,7 @@ for more details, https://opencode.md/en/about/digital-internet-commons-eu/
 
 The Registry of Digital Public goods is divided into 21 topics and presented here:
 https://opencode.md/en/registry/
-
+<hr>
 We keep 2 kinds of the list of solutions: 
 List 1) International 
 This is trustful International solutions that we included ourselves into the Registry 
@@ -109,5 +109,22 @@ You can create and support own structured Registry of Open Source products (solu
 - for NGO and Non-profit organizations as own Resister of solutions, important documents et.
 - for event, conference or hackathon organizers to keep the structured result of their activity
 
+The OpenCode.md ensure 3 types priority of scanning accounts and solutions that hosting on  approved Git Repositories: 
+1) the Highest priority:
+Scanning of the products from own Registry of OpenCode.md, including:
+- International trustful solutions (selection of Opencode.md administration)
+- Solutions that submitted application and it be included into the Registry 
+(by initiative of owner the Open source product)
+
+2) The Middle priority: 
+by API with GitHub from the internal list of the Opencode.md, including: 
+- accounts of the companies or developers  
+- solutions of Open Source solutions of the governments
+- solutions of third party Registers
+
+3) The Low priority: 
+by API with GitHub, basing on the analysis of the activity of the developers in Github Repository:
+- accounts of the companies or developers  
+- solutions of Open source solutions 
 
 
