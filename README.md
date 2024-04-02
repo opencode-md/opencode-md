@@ -32,7 +32,7 @@ Technologies could help to optimise production, reduce emissions and waste, boos
 
 We present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the community of Republic of Moldova and our neighboring countries.
 
-The aim of the project is to innovate through Open Source software (Open Code), Open Content, Open Standards and Open Data for transparency and civic tech. At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the Open Source community. 
+The aim of the project is to innovate through Open Source software (Open Code), Open Content, Open Standards and Open Data for transparency and [Civic Tech](https://opencode.md/en/about/civic-tech/). At OpenCode.md, we would present, show and promote the technology that can enable citizens to more meaningfully engage in the public sphere and have a positive impact on the Open Source community. 
 
 Open Source Solutions can be a good force for a country's digital transformation efforts, including: Open Source Software helps government agencies better serve their citizens, Open Data and Open Content help digital solutions make better decisions, and Open Standards improve digital interoperability.
 
