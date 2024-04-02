@@ -46,18 +46,20 @@ If you are curious to know about how the Opencode.md functions, visit [our websi
 <hr>
 <h3>Opencode.md support 2 kinds of Open Source Solutions:</h3>
 <h4>1) Trustful International Open Source Solutions:</h4>
-    • trusted developers that have extended community;
-    • are in working conditions;
-    • have "Active" state (status);
-    • use one license from the list of Approved Open Licenses;
-    • have an extensive community of Open source Developers supporting this solution;
-    • updated regularly (at least 1 time per year).
+
+- trusted developers that have extended community;
+- are in working conditions;
+- have "Active" state (status);
+- use one license from the list of [Approved Open Licenses](https://opencode.md/en/about/approved-open-licenses/);
+- have an extensive community of Open source Developers supporting this solution;
+- updated regularly (at least 1 time per year).
 
 <h4>2) Solutions submitted be developers to opencode.md and passed verification procedure,</h4>
 it is provided, that this resource will bring together all open software solutions that:
-    • submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
-    • support the workability of your solution in the future;
-    • annual checks of the open source solution for compliance with tried and tested solutions are provided.
+
+- submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
+- support the workability of your solution in the future;
+- annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
 This solution corresponds to the Requirements for Open Source Solutions,
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
