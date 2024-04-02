@@ -69,8 +69,9 @@ This is trustful International solutions that we included ourselves into the Reg
 - updated regularly 9at least 1 time per year)
 
 <h4>List 2) Submitted application to be included into the the Registry of OpenCode.md</h4>
-this is solutions that corresponds the requirements for Open Source Solutions,  [requirements for Open Source Solutions](https://opencode.md/en/about/requirements/)
-[Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/) 
+
+this solutions corresponds the requirements for Open Source Solutions, [requirements for Open Source Solutions](https://opencode.md/en/about/requirements/) 
+[Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
 
 Mentioned solutions from both lists are periodically indexed by the Opencode.md crawler application that corresponds to Requirements indicated above. 
 
