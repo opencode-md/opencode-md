@@ -37,8 +37,8 @@ The aim of the project is to innovate through Open Source software (Open Code), 
 <h4>Open Source Solutions can be a good force for a country's digital transformation efforts, including:</h4>
 
 - Open Source Software
-- - in [Civic Tech](https://opencode.md/en/about/civic-tech/) allows effective interacion inside civil society and
-  - in [GovTech](https://opencode.md/en/about/civictech-govtech/) helps government agencies better serve their citizens,
+  - in [Civic Tech](https://opencode.md/en/about/civic-tech/) allows effective interacion inside [civil society](https://en.wikipedia.org/wiki/Civil_society) and
+  - in [GovTech](https://opencode.md/en/about/civictech-govtech/) helps government agencies better serve [public sector](https://en.wikipedia.org/wiki/Public_sector) and their citizens,
 - Open Data and Open Content help digital solutions make better decisions, and
 - Open Standards improve digital interoperability.
 
