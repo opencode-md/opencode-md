@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+ <img width="200px" src="https://github.com/opencode-md/opencode-md/images/gradient-omnichannel-illustration_23-2149350373.jpg" alt="OpenCode.md"/>
+</p>
+
 <h2>Open Source products and Digital Public Goods to Moldova</h2>
 
 Welcome to the Open Content Project page - [OpenCode.md](https://opencode.md/en).
