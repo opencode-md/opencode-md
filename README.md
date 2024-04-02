@@ -61,7 +61,7 @@ it is provided, that this resource will bring together all open software solutio
 - support the workability of your solution in the future;
 - annual checks of the open source solution for compliance with tried and tested solutions are provided.
 
-This solutions corresponds the [Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
+The solution corresponds to the [Requirements for Open Source Solutions](https://opencode.md/en/about/requirements/), 
 This resource is intended to bring together all open source software solutions that meet the tried and tested solution requirements outlined above.
 The solutions from both lists are periodically indexed by the Opencode.md crawler.
 
@@ -83,7 +83,7 @@ You can create and support own structured Registry of Open Source products (solu
 - for country, municipal or regional entities as Registry of products of local government
 - for niche solutions (Linux DevOps, Open AI models, agriculture, medical etc.) 
 - for educational institutions as Registry of own Open Source solutions
-- for NGO and Non-profit organizations as own Resister of solutions, important documents etс.
+- for NGO and Non-profit organizations as their own Resister of solutions, important documents etс.
 - for event, conference or hackathon organizers to keep the structured result of their activity
 <hr>
 <h3>The OpenCode.md ensure 3 types priority of scanning accounts and solutions that hosting on  approved Git Repositories: </h3>
@@ -110,7 +110,7 @@ by API with GitHub, basing on the analysis of the activity of the developers in 
 <hr>
 <h3>Development plans for Opencode.md</h3>
 
-- development API for exchanging information about search indexes between projects created based on the core of the open source solution;
-- implementaion API for exchanging information with the Open Web Index project.
+- development of API for exchanging information about search indexes between projects created based on the core of the open source solution;
+- implementation of API for exchanging information with the Open Web Index project (if such API be awailable).
 
 
