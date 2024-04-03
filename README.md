@@ -70,11 +70,11 @@ The solutions from both lists are periodically indexed by the Opencode.md crawle
 
 The audience of our service is the companies and physical persons that are interested in using trustful and secured Open Source solutions that are in working conditions and updated regularly and secured and that don't bring harm.
 
-<h4>The examples of customers/users:</h4>
+<h4>The examples of customers/users of Open Source Solutions (OSS):</h4>
 
-- Developers of Open Source Solutions
-- Innovators
-- Companies that implement Open source Solution
+- Developers of OSS
+- Innovators (ambassors, supporters) of OSS
+- Companies that implement OSS
 
 <h4>own structured Registry of Open Source products (solutions)</h4>
 You can create and support own structured Registry of Open Source products (solutions) or its descriptions:
