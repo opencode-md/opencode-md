@@ -54,7 +54,7 @@ If you are curious to know about how the Opencode.md functions, visit [our websi
 - have an extensive community of Open source Developers supporting this solution;
 - updated regularly (at least 1 time per year).
 
-<h4>2) Solutions submitted be developers to opencode.md and passed verification procedure,</h4>
+<h4>2) Solutions submitted by developers to opencode.md and passed verification procedure,</h4>
 it is provided, that this resource will bring together all open software solutions that:
 
 - submitted an application to be included in the list of approved open source solutions of the project OpenCode.md and passed it;
